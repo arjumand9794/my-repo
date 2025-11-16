@@ -1,1 +1,3 @@
-change from A
+
+change from B
+>>>>>>> branch_B
